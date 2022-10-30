@@ -22,7 +22,7 @@
 }
 
 .hero-div {
-    width: 90%;
+    width: 85%;
     margin-inline: auto;
 }
 
@@ -130,10 +130,6 @@ section {
 
 .sect-img img {
     max-width: 100%;
-}
-
-.sect-sub {
-    /* background-color: yellow; */
 }
 
 .sect-sub h2 {
